@@ -1,4 +1,3 @@
-<!doctype html>
 <html class="h5p-iframe">
 <head>
 <meta charset="utf-8">                    
